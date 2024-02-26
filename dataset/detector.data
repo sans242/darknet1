@@ -1,4 +1,4 @@
 classes=4
-train=custom_data/train.txt
-names=custom_data/custom.names
+train=dataset/train.txt
+names=dataset/custom.names
 backup=backup/
